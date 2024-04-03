@@ -16,19 +16,19 @@ function Tools() {
                 <div className='flex flex-col w-fit shadow-lg ps-5 pe-10 pt-4 pb-10 md:ps-10 md:pe-20 md:pt-5 md:pb-8 rounded-xl mb-4 bg-white'>
                     <div className='flex items-center justify-start mb-4'><FontAwesomeIcon className=' me-4 md:me-8 md:text-3xl' icon={faWallet} /> <h1 className='md:text-4xl md:mb-3'>Demo Portal</h1></div>
                     <p className='text-sm md:text-lg md:ms-16 ms-8 mb-3'>Explore PayPal product experiences from the customer's perspective.</p>
-                    <p className='md:ms-16 ms-8 md:text-lg'><a href='' className='font-semibold text-blue-700'>View Demo</a></p>
+                    <p className='md:ms-16 ms-8 md:text-lg'><p className='font-semibold text-blue-700'>View Demo</p></p>
 
                 </div>
                 <div className='flex flex-col w-fit shadow-lg ps-5 pe-10 pt-4 pb-10 md:ps-10 md:pe-20 md:pt-5 md:pb-8 rounded-xl mb-4 bg-white'>
                     <div className='flex items-center justify-start mb-4'><FontAwesomeIcon className=' me-4 md:me-8 md:text-3xl' icon={faWallet} /> <h1 className='md:text-4xl md:mb-3'>Demo Portal</h1></div>
                     <p className='text-sm md:text-lg md:ms-16 ms-8 mb-3'>Explore PayPal product experiences from the customer's perspective.</p>
-                    <p className='md:ms-16 ms-8 md:text-lg'><a href='' className='font-semibold text-blue-700'>View Demo</a></p>
+                    <p className='md:ms-16 ms-8 md:text-lg'><p className='font-semibold text-blue-700'>View Demo</p></p>
 
                 </div>
                 <div className='flex flex-col w-fit shadow-lg ps-5 pe-10 pt-4 pb-10 md:ps-10 md:pe-20 md:pt-5 md:pb-8 rounded-xl mb-4 bg-white'>
                     <div className='flex items-center justify-start mb-4'><FontAwesomeIcon className=' me-4 md:me-8 md:text-3xl' icon={faWallet} /> <h1 className='md:text-4xl md:mb-3'>Demo Portal</h1></div>
                     <p className='text-sm md:text-lg md:ms-16 ms-8 mb-3'>Explore PayPal product experiences from the customer's perspective.</p>
-                    <p className='md:ms-16 ms-8 md:text-lg'><a href='' className='font-semibold text-blue-700'>View Demo</a></p>
+                    <p className='md:ms-16 ms-8 md:text-lg'><p className='font-semibold text-blue-700'>View Demo</p></p>
 
                 </div>
 

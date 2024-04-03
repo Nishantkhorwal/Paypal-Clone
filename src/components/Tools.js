@@ -5,7 +5,7 @@ import {faWallet} from '@fortawesome/free-solid-svg-icons'
 function Tools() {
   return (
     <>
-    <div className='relative md:w-fit bg-yellow-100'>
+    <div className='relative md:w-fit bg-yellow-100' id='3'>
         <div className='flex flex-col md:flex-row w-fit md:px-44 pb-20 '>
             <div className='w-fit mt-20 ms-10 md:ms-0 '>
                 <h1 className='md:text-5xl text-3xl md:mb-20 mb-10'>Developer Tools &<br/> Resources</h1>

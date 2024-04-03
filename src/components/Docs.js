@@ -8,7 +8,7 @@ function Docs() {
     
   return (
     <>
-    <div className='relative flex flex-col md:top-16 '>
+    <div className='relative flex flex-col md:top-16 ' id='1'>
     <div className='  flex justify-center items-start flex-col px-10 md:py-10 py-20 bg-blue-900 md:p-28 md:pb-20 w-fit'>
         <h3 className='text-gray-500 font-semibold md:text-3xl text-lg mb-4 md:mb-8'>PayPal Developer</h3>
         <h1 className='text-2xl md:text-6xl md:mb-10 md:font-bold font-bold text-white mb-4'>Build a payment solution that's right for you with PayPal for Developers</h1>

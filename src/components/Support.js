@@ -3,7 +3,7 @@ import React from 'react'
 function Support() {
   return (
     <>
-    <div className='flex flex-col md:flex-row pb-20'>
+    <div className='flex flex-col md:flex-row pb-20' id='4'>
         <div className='flex flex-col md:ps-44 pt-20 '>
             <h1 className='md:text-5xl text-2xl ms-3 md:ms-0 mb-4'>Looking for Something Else?</h1>
             <p className='mb-8 ms-3 md:ms-0'>If you need additional help, check out our support articles, community resources, and more.</p>

@@ -5,7 +5,7 @@ import {faCodeCompare} from '@fortawesome/free-solid-svg-icons'
 function APIs() {
   return (
     <>
-    <div className='relative md:py-20'>
+    <div className='relative md:py-20' id='2'>
         <h1 className='ps-12 mb-6 text-2xl md:text-5xl md:mb-10 md:ms-28'>Explore Our APIs & SDKs</h1>
         <div className='flex flex-col md:flex-row-reverse md:w-4/5  md:me-10 md:ms-28 md:mb-20'>
         <div className='flex flex-col w-3/4 md:w-[630px] ms-12 rounded-xl shadow-lg pb-8 mb-10 md:mb-0'>

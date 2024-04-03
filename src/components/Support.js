@@ -14,7 +14,7 @@ function Support() {
 
         </div>
         <div>
-            <img src='work5.png' className='w-[688px] mt-10'></img>
+            <img src='work5.png' className='w-[688px] mt-10' alt=''></img>
         </div>
 
     </div>
